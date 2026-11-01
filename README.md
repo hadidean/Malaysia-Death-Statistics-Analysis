@@ -52,20 +52,16 @@ Add the original dataset URL and any relevant attribution or usage conditions he
 ## Visualization Preview
 
 ### 1. Line Graph (YEAR)
-
-<img width="794" height="1123" alt="Line Graph" src="https://github.com/user-attachments/assets/b193ac5b-5d4c-4922-804b-285b6f03547c" />
+<img width="333" height="335" alt="Line Graph" src="https://github.com/user-attachments/assets/e725b4c7-a03d-4cc3-b375-af9ae1d79f94" />
 
 ### 2. Heatmap (STATE)
-
-<img width="794" height="1123" alt="Heatmap" src="https://github.com/user-attachments/assets/51e7c737-f073-4816-b464-f05c17d10e54" />
+<img width="335" height="335" alt="Heatmap" src="https://github.com/user-attachments/assets/5daf181f-cb83-4945-a138-fd6bee7380b8" />
 
 ### 3. Bar Chart (AGE)
-
-<img width="794" height="1123" alt="Bar Chart" src="https://github.com/user-attachments/assets/98fb8884-33d7-4402-a2c2-9adb694a97db" />
+<img width="336" height="336" alt="Bar Chart" src="https://github.com/user-attachments/assets/4c62484f-5adc-49b4-93e7-68f5259c5f84" />
 
 ### 1. Pie Chart (SEX)
-
-<img width="794" height="1123" alt="Pie Chart" src="https://github.com/user-attachments/assets/089bac8e-65d7-432f-8407-163a8b5fa032" />
+<img width="323" height="284" alt="Pie Chart" src="https://github.com/user-attachments/assets/416575e3-4eb6-499c-ad90-def0921cddcc" />
 
 ## Dashboard Preview
 
