@@ -1,4 +1,4 @@
-# Malaysia Death Statistics Analysis (2001–2021)
+<img width="794" height="1123" alt="Heatmap" src="https://github.com/user-attachments/assets/42450983-4aa7-4036-b261-dcf774973d8f" /># Malaysia Death Statistics Analysis (2001–2021)
 
 An interactive Power BI dashboard analysing mortality statistics in Malaysia from 2001 to 2021. This project explores national death trends, geographical differences across states, and demographic patterns based on age groups and gender.
 
@@ -48,6 +48,24 @@ Add the original dataset URL and any relevant attribution or usage conditions he
 5. DAX measure development
 6. Interactive dashboard development using Power BI
 7. Data validation and visualisation
+
+## Visualization Preview
+
+### 1. Line Graph (YEAR)
+
+<img width="794" height="1123" alt="Line Graph" src="https://github.com/user-attachments/assets/b193ac5b-5d4c-4922-804b-285b6f03547c" />
+
+### 2. Heatmap (STATE)
+
+<img width="794" height="1123" alt="Heatmap" src="https://github.com/user-attachments/assets/51e7c737-f073-4816-b464-f05c17d10e54" />
+
+### 3. Bar Chart (AGE)
+
+<img width="794" height="1123" alt="Bar Chart" src="https://github.com/user-attachments/assets/98fb8884-33d7-4402-a2c2-9adb694a97db" />
+
+### 1. Pie Chart (SEX)
+
+<img width="794" height="1123" alt="Pie Chart" src="https://github.com/user-attachments/assets/089bac8e-65d7-432f-8407-163a8b5fa032" />
 
 ## Dashboard Preview
 
