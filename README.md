@@ -55,13 +55,19 @@ Add the original dataset URL and any relevant attribution or usage conditions he
 
 Displays national mortality trends, total deaths, age category distribution, and gender distribution.
 
+![Uploading National Overview.png…]()
+
 ### 2. State Analysis
 
 Compares mortality across Malaysian states and examines yearly trends.
 
+<img width="1062" height="596" alt="State Analysis" src="https://github.com/user-attachments/assets/7efd14e1-e125-4356-a120-137ab3deaaca" />
+
 ### 3. Demographic Analysis
 
 Explores death distributions across age groups and gender, with interactive filters.
+
+<img width="1058" height="592" alt="Demographic Analysis" src="https://github.com/user-attachments/assets/5b02418d-f9a5-4d11-9eb1-cd6da2314325" />
 
 ## Key Analytical Areas
 
