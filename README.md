@@ -1,4 +1,4 @@
-<img width="794" height="1123" alt="Heatmap" src="https://github.com/user-attachments/assets/42450983-4aa7-4036-b261-dcf774973d8f" /># Malaysia Death Statistics Analysis (2001–2021)
+# Malaysia Death Statistics Analysis (2001–2021)
 
 An interactive Power BI dashboard analysing mortality statistics in Malaysia from 2001 to 2021. This project explores national death trends, geographical differences across states, and demographic patterns based on age groups and gender.
 
