@@ -55,7 +55,7 @@ Add the original dataset URL and any relevant attribution or usage conditions he
 
 Displays national mortality trends, total deaths, age category distribution, and gender distribution.
 
-![Uploading National Overview.png…]()
+<img width="1063" height="591" alt="National Overview" src="https://github.com/user-attachments/assets/decb6190-598d-4c5d-8a1b-01dbf0192f40" />
 
 ### 2. State Analysis
 
